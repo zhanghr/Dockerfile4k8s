@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/etcd-amd64:3.0.17
-MAINTAINER h0255 <hubt@dtdream.com>
+FROM k8s.gcr.io/spark:1.5.2_v1
+MAINTAINER XXX <XXX@dtdream.com>
